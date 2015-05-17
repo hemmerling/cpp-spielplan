@@ -10,5 +10,5 @@ Die Projektdatei "sp.ui" für den GUI-Designer "QT Designer", das QMake-Makefile
 Der Pfad zu zum QT-bin Verzeichnis ( z.B. "C:\Qt\4.8.6\bin" ) und zum MinGW-bin Verzeichnis ( z.B. "C:\int\w32\develop\Dev-Cpp\MinGW32\bin" müssen im System-Pfad eingetragen sein.
 
 MingGW unter Dev-Cpp benötigt die folgende Include-Verzeichnisse in den Projekteinstellungen:
--I"c:\Qt\4.8.6\include\QtCore" -I"c:\Qt\4.8.6\include\QtGui" -I"c:\Qt\4.8.6\include" -I"c:\Qt\4.8.6\include\ActiveQt" -I"c:\Qt\4.8.6\mkspecs\default" -
+-I"c:\Qt\4.8.6\include\QtCore" -I"c:\Qt\4.8.6\include\QtGui" -I"c:\Qt\4.8.6\include" -I"c:\Qt\4.8.6\include\ActiveQt" -I"c:\Qt\4.8.6\include\Qt3Support" -I"c:\Qt\4.8.6\mkspecs\default" -
 
